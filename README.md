@@ -8,10 +8,9 @@ This project applies **Natural Language Processing (NLP)** techniques to analyze
 
 ```
 ├── Public_Relations_png/                  # Visualizations from the analysis
-├── Public_Relations_Department.ipynb     # Jupyter Notebook with full analysis and model building
-├── amazon_alexa.tsv                       # Dataset containing Alexa product reviews
-├── README.md                              # Project documentation
-└── .gitattributes                         # Git configuration
+├── Public_Relations_Department.ipynb      # Jupyter Notebook with full analysis and model building
+├── amazon_alexa.tsv                       # Dataset containing Alexa product reviews                           
+└── README.md                              # Project documentation
 ```
 
 ## 📊 Dataset
